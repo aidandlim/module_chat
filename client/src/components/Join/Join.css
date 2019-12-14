@@ -22,7 +22,7 @@ html, body {
 }
 
 .joinInnerContainer {
-  width: 20%;
+  width: 50%;
 }
 
 .joinInput {
@@ -52,18 +52,6 @@ html, body {
 
 .mt-20 {
   margin-top: 20px;
-}
-
-@media (min-width: 320px) and (max-width: 480px) {
-  .joinOuterContainer {
-    height: 100%;
-  }
-
-  .joinInnerContainer {
-    width: 90%;
-  }
-
-
 }
 
 button:focus {
