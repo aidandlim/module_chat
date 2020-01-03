@@ -1,4 +1,4 @@
-# Chat App
+# [PRACTICE - Socket.io] Chat Application
 
 ***Not Yet***
 
